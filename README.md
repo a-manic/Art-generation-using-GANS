@@ -19,7 +19,9 @@ Using datasets with less than 6k images led to mode collape and hence repetitive
 ## References
 <a id="1">[1]</a>
 https://www.kaggle.com/ikarus777/best-artworks-of-all-time
+
 <a id="2">[2]</a>
 https://www.wikiart.org/
+
 <a id="3">[3]</a>
 https://drive.google.com/file/d/1yHqS2zXgCiI9LO4gN-X5W18QYXC5bbQS/view
